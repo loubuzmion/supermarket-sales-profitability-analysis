@@ -5,11 +5,11 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes Q1 2019 retail transaction data across three supermarket branches (**Branch A – Yangon**, **Branch B – Mandalay**, and **Branch C – Naypyitaw**) to evaluate revenue drivers, product-line profitability, customer loyalty segments, data quality gaps, and customer satisfaction metrics.
 
-## 📊 Executive Summary & KPIs
+## Executive Summary & KPIs
 
 | Metric | Value |
 | :--- | :--- |
@@ -21,7 +21,7 @@ This project analyzes Q1 2019 retail transaction data across three supermarket b
 | **Average Transaction Value** | $322.97 *(Median: $253.85)* |
 | **Overall Customer Rating** | 6.97 / 10 *(Median: 7.0)* |
 
-## 🔍 Key Findings & Business Insights
+## Key Findings & Business Insights
 
 #### 1. Product Line Revenue vs. Gross Profit
 While top-line revenue is relatively balanced across all six categories ($49.2k–$56.1k), varying gross margins (10% to 28%) create major differences in bottom-line profitability:
@@ -53,7 +53,7 @@ While top-line revenue is relatively balanced across all six categories ($49.2k�
   * Missing Payment Data: Audit of Column M (Payment) identified 31 missing entries (3.1% of records) requiring POS validation rules.
   * Review Engagement: 71.0% of shoppers left text feedback, averaging a 7.02 rating compared to 6.86 among non-reviewers.
 
-## 🛠️ Excel Tasks & Methodology Summary
+## Excel Tasks & Methodology Summary
 
 | Task | Analytical Objective | Excel Techniques Applied | Key Output |
 | :---: | :--- | :--- | :--- |
@@ -68,7 +68,7 @@ While top-line revenue is relatively balanced across all six categories ($49.2k�
 | **Q9** | Product line revenue ranking | Pivot Table aggregation *(Sum of Total)* | Food & Beverages ranks #1 ($56,144.84) |
 | **Q10** | Supermarket gross profit modeling | Margin-weighted profit formulas (`Revenue × Margin %`) | $57,117.28 total gross profit |
 
-## 💡 Strategic Recommendations
+## Strategic Recommendations
 1. Promote High-Margin Categories: Bundle Health and Beauty (28% margin) and Food and Beverages (23% margin) in prominent end-cap displays and checkout promotions to expand overall store profitability.
 2. Convert Electronic Accessories Buyers into Members: Normal shoppers outspend Members by +$5,340.54 in Electronic Accessories. Offering instant membership discounts on electronics can capture high-intent non-members into the loyalty program.
 3. Investigate Customer Experience at Branch B (Mandalay): Conduct targeted review text analysis on Mandalay's lower-rated transactions (median 6.7) to resolve operational bottlenecks (e.g., checkout queues, signage, or store temperature noted in customer comments).
