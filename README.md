@@ -1,3 +1,4 @@
+![Supermarket Sales](supermarket-sales.jpg)
 # Supermarket Sales & Profitability Analysis (Excel Analytics Project)
  
 **Tools Used:** Microsoft Excel (Pivot Tables, Data Normalization, Lookup & Text Functions, Conditional Filtering)  
